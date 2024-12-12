@@ -186,7 +186,7 @@ trainer.train()
 
 cfg.MODEL.WEIGHTS = os.path.join(cfg.OUTPUT_DIR, "model_final.pth")
 cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.7
-predictor = DefaultPredictor(cfg)
+predictor = DefaultPredictor(cfg)  
 
 evaluator = COCOEvaluator("Microplastic-Dataset-valid", False, output_dir="/kaggle/working/output/")
 val_loader = build_detection_test_loader(cfg, "Microplastic-Dataset-valid")
