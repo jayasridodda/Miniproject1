@@ -1,1 +1,19 @@
-# Miniproject1
+# Miniproject-LINEAR AND POLYNOMIAL TREND ESTIMATION
+Date:
+### AIM:
+
+
+### ALGORITHM:
+
+
+
+
+
+
+
+### PROGRAM:
+
+
+### OUTPUT
+
+### RESULT:
