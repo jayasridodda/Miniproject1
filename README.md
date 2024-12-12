@@ -1,10 +1,37 @@
-# Miniproject-LINEAR AND POLYNOMIAL TREND ESTIMATION
+# Miniproject-1
 Date:
 ### AIM:
 
+To Microplastic detection using detectron v2 model for qualitative analysis of oceanic water on the southern coastline of India .
+
 
 ### ALGORITHM:
+Step 1:
+Detect microplastics in oceanic water samples along India's southern coastline.
 
+Step 2:
+Collect and annotate images, split into training, validation, and test sets.
+
+Step 3:
+Install Detectron2, dependencies, and configure the system.
+
+Step 3:
+Model Configuration, Choose a pre-trained model (e.g., Mask R-CNN) and set hyperparameters.
+
+Step 4:
+Data Augmentation by Applying flips, rotations, and noise to enhance model robustness.
+
+Step 5:
+Train Model with annotated data and save checkpoints.
+
+Step 6:
+Evaluate Performance by Using mAP@50:70 and visualize predictions.
+
+Step 7:
+Deploy Model by Saving and integrating into an inference system.
+
+Step 8: 
+Report findings and provide visualization.
 
 ### PROGRAM:
 ```
